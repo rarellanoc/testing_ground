@@ -1,7 +1,7 @@
 # testing_ground
 A silly oracle using wikiquote
 
-This is an experiment to fool myself, seeking how far out minds go in generating random relations if a quote, or aphorism is generated randomly after you ask a question. 
+This is an experiment to fool myself, seeking how far our minds go in generating random relations if a quote, or aphorism is generated randomly after you ask a question. 
 
 There is no complex computational relation between question and answer, just like an oracle. 
 
