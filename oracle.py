@@ -18,7 +18,7 @@ if random_title != None:
 		quote = wikiquotes.random_quote(random_title[random.list(range(10))], "english")
 	print(quote)
 
-	veredicto = input('ejecutar / esperar ')
+	veredicto = input('commit to it / wait ')
 
 	file = open('results.txt','a')	
 	file.write(intention+ '\n')
